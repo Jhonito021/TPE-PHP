@@ -1,0 +1,56 @@
+[
+    {
+        "nom": "Jhonito",
+        "adresse": "Itaosy",
+        "email": "jhonito021@gmail.com",
+        "commentaire": "bien re\u00e7u",
+        "detail": [
+            {
+                "nom": "Tee-shirt",
+                "prix": 15000,
+                "quantite": 5
+            },
+            {
+                "nom": "Sweet",
+                "prix": 30000,
+                "quantite": 3
+            }
+        ]
+    },
+    {
+        "nom": "Jhonito",
+        "adresse": "Itaosy",
+        "email": "jhonito021@gmail.com",
+        "commentaire": "bien recu",
+        "detail": [
+            {
+                "nom": "Tee-shirt",
+                "prix": 15000,
+                "quantite": 5
+            },
+            {
+                "nom": "Sweet",
+                "prix": 30000,
+                "quantite": 2
+            }
+        ]
+    },
+    {
+        "nom": "Amboara",
+        "adresse": "Itaosy",
+        "email": "amboaraandria61@gmail.com",
+        "commentaire": "merci beaucoup",
+        "detail": [
+            {
+                "nom": "Tee-shirt",
+                "prix": 15000,
+                "quantite": 3
+            },
+            {
+                "nom": "Tee-shirt",
+                "prix": 15000,
+                "quantite": 2
+            }
+        ]
+    }
+]
